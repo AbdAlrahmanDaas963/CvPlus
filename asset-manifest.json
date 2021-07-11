@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CvPlus/static/css/main.1a69bfbb.chunk.css",
+    "main.js": "/CvPlus/static/js/main.f82ca1d8.chunk.js",
+    "main.js.map": "/CvPlus/static/js/main.f82ca1d8.chunk.js.map",
+    "runtime-main.js": "/CvPlus/static/js/runtime-main.8d5857c6.js",
+    "runtime-main.js.map": "/CvPlus/static/js/runtime-main.8d5857c6.js.map",
+    "static/js/2.467562c9.chunk.js": "/CvPlus/static/js/2.467562c9.chunk.js",
+    "static/js/2.467562c9.chunk.js.map": "/CvPlus/static/js/2.467562c9.chunk.js.map",
+    "static/js/3.1bdbb292.chunk.js": "/CvPlus/static/js/3.1bdbb292.chunk.js",
+    "static/js/3.1bdbb292.chunk.js.map": "/CvPlus/static/js/3.1bdbb292.chunk.js.map",
+    "index.html": "/CvPlus/index.html",
+    "static/css/main.1a69bfbb.chunk.css.map": "/CvPlus/static/css/main.1a69bfbb.chunk.css.map",
+    "static/js/2.467562c9.chunk.js.LICENSE.txt": "/CvPlus/static/js/2.467562c9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CvPlus/static/media/214205266_1806420082851684_8190420291149348925_n.d1221be2.jpg",
+    "static/media/myImgCut.97045446.png": "/CvPlus/static/media/myImgCut.97045446.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d5857c6.js",
+    "static/js/2.467562c9.chunk.js",
+    "static/css/main.1a69bfbb.chunk.css",
+    "static/js/main.f82ca1d8.chunk.js"
+  ]
+}
